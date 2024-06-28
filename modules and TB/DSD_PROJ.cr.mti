@@ -1,0 +1,36 @@
+C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/RegisterFile.v {1 {vlog -work work -vopt -stats=none C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/RegisterFile.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/Memory.v {1 {vlog -work work -vopt -stats=none C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/Memory.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/TB.v {1 {vlog -work work -vopt -stats=none C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/VectorProcessor.v {1 {vlog -work work -vopt -stats=none C:/Users/voizo/OneDrive/Desktop/DSD_PROJ/VectorProcessor.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module VecotrProcessor
+
+Top level modules:
+	VecotrProcessor
+
+} {} {}}
